@@ -1,0 +1,7 @@
+t = 0
+n = input("please enter a number")
+n = int(n)
+while n > 0:
+	t = t + n
+	n = n - 1
+print("result is " + str(t))
