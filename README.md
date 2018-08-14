@@ -11,3 +11,4 @@
 5. for loop
 6. download image
 7. ÖªºõµÇÂ¼(power by zhihu_oauth)
+8. BMI¼ÆËãÆ÷
